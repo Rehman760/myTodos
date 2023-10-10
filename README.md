@@ -16,13 +16,13 @@
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/react-task-management-app.git
+   git clone https://github.com/Rehman760/myTodos.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd react-task-management-app
+   cd myTodos
    ```
 
 3. Install project dependencies:
