@@ -1,4 +1,4 @@
-React Task Management App
+**React Task Management App**
 Description: This is a simple task management web application built with React. It allows users to create, edit, and delete tasks. The application uses Axios for API requests and React Icons for a user-friendly interface.
 
 Table of Contents
